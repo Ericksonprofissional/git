@@ -12,18 +12,15 @@ body {
 }
 
 .cabecalho{
-    background: red;
+    
     grid-area: cabecalho;
 }
 
 .conteudo {
-    background: blue;
-
     grid-area: conteudo;
 }
 
 .rodape {
     text-align: center;
-
     grid-area: rodape;
 }
