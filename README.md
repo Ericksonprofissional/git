@@ -1,2 +1,15 @@
 # git
 Controle de versionamento de código
+
+
+Aula1
+Nesta aula, aprendemos:
+
+O que são (e para que servem) sistemas de controle de versões e como eles podem ajudar o nosso fluxo de desenvolvimento
+Nos ajudam a manter um histórico de alterações;
+Nos ajudam a ter controle sobre cada alteração no código;
+Nos ajudam para que uma alteração de determinada pessoa não influencie na alteração realizada por outra;
+Etc.
+O que é o Git e como instalá-lo
+Que, com o comando git init, nós conseguimos criar um repositório Git;
+Como analisar o estado do nosso repositório através do comando git status.

@@ -1,0 +1,29 @@
+body {
+    background: #fffafa;
+}
+
+.principal {
+    display: grid;
+    grid-template-areas: 
+        "cabecalho"
+        "conteudo"
+        "rodape";
+    grid-template-rows: 70px 90vh 50px;
+}
+
+.cabecalho{
+    background: red;
+    grid-area: cabecalho;
+}
+
+.conteudo {
+    background: blue;
+
+    grid-area: conteudo;
+}
+
+.rodape {
+    text-align: center;
+
+    grid-area: rodape;
+}
