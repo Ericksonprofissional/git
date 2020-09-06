@@ -40,6 +40,18 @@ O que é e para que serve o GitHub;
 Como criar um repositório no GitHub;
 Como adicionar um repositório do GitHub como repositório remoto.
 
+Aula4
+Nesta aula, aprendemos:
+
+Que uma branch (ou ramo) é uma linha de commits separada, e que pode ser utilizada para desenvolver funcionalidades independentes;
+Que com branches separados, podemos evitar que o código de uma funcionalidade interfira em outra;
+Como trazer o trabalho realizado em uma branch para outra branch, como por exemplo, o master, através do comando git merge;
+Que o git merge gera um novo commit, informando que houve uma mescla entre duas branches;
+Como trazer os commits de uma branch para outra, com o git rebase
+Que o git rebase não gera um commit de merge, simplificando o nosso log;
+Como os conflitos são apresentados pelo Git;
+Como resolver os conflitos e manter apenas as alterações desejadas com o Git.
+
 aula5
 Nesta aula, aprendemos:
 
